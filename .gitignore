@@ -1,11 +1,9 @@
-wp-admin/
-wp-includes/
-wp-content/uploads/
-wp-content/cache/
-wp-content/upgrade/
 .DS_Store
 Thumbs.db
 .vscode/
 *.log
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
 node_modules/
 vendor/
